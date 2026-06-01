@@ -476,5 +476,6 @@ int main()
     }
     UnloadTexture(board);
     UnloadTexture(pieces);
+    UnloadTexture(chess);
     CloseWindow();
 }
